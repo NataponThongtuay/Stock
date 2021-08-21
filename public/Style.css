@@ -1,0 +1,31 @@
+.pr1 {
+    position: absolute;
+    width: 226px;
+    height: 62px;
+    left: 11px;
+    top: 21px;
+    background: #FAB294;
+}
+
+.pr2 {
+    position: absolute;
+    width: 108px;
+    height: 62px;
+    left: 240px;
+    right: 12px;
+    top: 21px;
+}
+
+
+.SC1 {
+    position: absolute;
+    width: 108px;
+    height: 62px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    /* color: #535353; */
+}
